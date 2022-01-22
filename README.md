@@ -5,7 +5,7 @@ Guia 1 de Desarrollo de software para moviles
 para ejecutar utilizar un compilador online 
 o compilar usando 
 ```
-javac archivo.class
+javac archivo.java
 
 ```
 y generar el jar utilizando
